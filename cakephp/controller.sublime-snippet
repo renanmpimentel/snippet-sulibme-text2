@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+class ${1:nome} extends AppController {
+
+	function ${2:nomeAction}(){
+		${3:// Actions}	
+	}
+	
+}
+]]></content>
+    <tabTrigger>controller</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
