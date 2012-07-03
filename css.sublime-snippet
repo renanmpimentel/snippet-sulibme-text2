@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+]]></content>
+	<tabTrigger>cssreset</tabTrigger>
+	<scope>source.css</scope>
+</snippet>

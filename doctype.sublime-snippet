@@ -1,0 +1,37 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8" />
+
+		<!-- Compatibilidde com o IE -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- Meta Name -->	
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<meta name="author" content="" />	
+
+		<title>Titulo do Site</title>
+
+		<!-- Caminho do CSS -->
+		<link href="" media="screen" rel="stylesheet" type="text/css" />
+
+		<!-- Meta Facebook -->
+		<meta property="og:title" content="" />
+	    <meta property="og:type" content="" />
+	    <meta property="og:url" content="" />
+	    <meta property="og:image" content="" />
+	    <meta property="og:site_name" content="" />
+	    <meta property="og:description" content="" />
+	    <meta name="description" content="" />
+    
+	</head>
+	<body>
+	</body>
+</html>
+]]></content>
+	<tabTrigger>doctype</tabTrigger>
+	<!-- <scope>source.html, source.HTML</scope> -->
+</snippet>
